@@ -1,0 +1,35 @@
+MATH NOTES: CHAPTER 2
+
+
+Section 2.1: Algebraic and Numerical Limits
+
+Definition of a limit: 
+	assume f is defined in a neigborhood of c and let c and L be real numbers. The function f has limit L as x 	approaches c if, given any positive number ε, there is a positive number δ such that for all x,
+
+	0 < |x-c| < δ →|f(x)-L|<ε 
+	
+The value of the function does not have to exist for the limit to exist.
+The limit is the value that the function approaches, not what it is.
+
+Could find by 
+1. factoring
+2. multiplying by conjugate
+3. using logarithms
+4. plugging in the x value of the limit
+
+If one method doesn't work, try another!
+
+Limits could be a point, or even infinity. When the value approached by both sides, what does y approach? That is the limit.
+
+0/0 is an indeterminant form.
+
+Appendix 3
+
+Formal definition of a limit: limx→c (f(x))=L
+
+ε is units from the limit
+δ is interval of x values you can stay within to stay within ε units of the limit
+
+if |x-L|<δ then |f(x)-L|<ε
+
+use the smallest of the delta(δ)
